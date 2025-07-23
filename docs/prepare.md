@@ -18,25 +18,9 @@
 
 ## 网页设计题
 
+考核网页基础题、基础的网页设计、制作相关主题网页
+
 HTML+CSS(+JS)网页学习网站：[B站](https://www.bilibili.com)
-
-### 提交格式
-
-```
-张三-259050999-我的家乡
-├── css
-│   ├── style.css
-├── html
-│   ├── about.html
-│   └── contact.html
-├── imgs
-│   ├── logo.png
-│   └── banner.jpg
-├── js
-│   ├── main.js
-└── index.html
-```
-
 
 
 ## 报名参考时间线
