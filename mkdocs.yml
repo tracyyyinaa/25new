@@ -1,0 +1,16 @@
+site_name: 2025级中电实验班招新指南
+nav:
+  - 关于中电班: index.md
+  - 如何准备考核: prepare.md
+  - 洛谷使用指南: acm.md
+  - 常见问题解答: question.md
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  features:
+    - navigation.footer
+    
+
+copyright: Copyright &copy; 2025 HZIEE
+language: zh
