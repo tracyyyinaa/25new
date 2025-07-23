@@ -1,5 +1,11 @@
 # 如何准备考核
 
+## 选拔实施方案
+
+[2025级中电订单班选拔实施方案](https://www.hziee.edu.cn/jsj/2025/0618/c513a28944/page.htm)
+
+
+
 ## 程序设计题
 
  C/C++/Java（自选一门语言）学习网站：[B站](https://www.bilibili.com)
